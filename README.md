@@ -1,3 +1,3 @@
 # hello-world
 
-This is my first entry into GitHub.
+This is my first entry in GitHub.
